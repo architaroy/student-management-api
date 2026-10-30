@@ -20,12 +20,10 @@ A backend API project for student management, built with Node.js, Express, and M
 
 ## Getting Started
 
-1. Install dependencies:
+1. Install the project dependencies by running `npm install`.
+2. Create a `.env` file and add the environment variables required by the project.
+3. Start the development server by running `npm run dev`.
 
-   ```bash
-   npm install
-   2. Add the environment variables required by the project to a .env file.
-3. Start the development server:
-   npm run dev
-About
-This project uses a structured backend layout to organize API routes, controllers, models, middleware, and configuration.
+## About
+
+This project organizes API routes, controllers, models, middleware, and configuration into separate folders.
